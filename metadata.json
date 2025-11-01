@@ -1,0 +1,5 @@
+{
+  "name": "AI Batch File Renamer",
+  "description": "An intelligent batch file renamer powered by the Gemini API. Easily rename multiple files using find-and-replace, sequential numbering, or AI-powered suggestions based on image content. Preview changes in real-time and download your renamed files in a convenient zip archive.",
+  "requestFramePermissions": []
+}
